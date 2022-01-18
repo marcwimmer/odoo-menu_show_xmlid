@@ -1,5 +1,4 @@
 {   'active': False,
- "auto_install": True,
     'application': False,
     'author': 'Marc Wimmer',
     'category': 'Tools',
@@ -8,6 +7,7 @@
                 'ir_model_access_true.xml',
                 'ir_rule_form.xml',
                 'ir_rule_tree.xml',
+                'ir_sequence.xml',
                 'ir_ui_act_window.xml',
                 'ir_ui_menu_form.xml',
                 'ir_ui_menu_tree.xml',
@@ -21,5 +21,5 @@
     'name': 'menu_show_xmlid',
     'qweb': [],
     'test': [],
-    'version': '13.0.1.0',
+    'version': '11.0.1.0',
     'web': True}
