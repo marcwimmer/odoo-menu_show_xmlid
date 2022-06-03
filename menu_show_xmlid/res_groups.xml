@@ -15,7 +15,7 @@
       <field name="model">res.groups</field>
       <field name="arch" type="xml">
         <tree string="">
-          <field name="name"/>
+          <field name="full_name"/>
           <field name="xml_id"/>
         </tree>
       </field>
