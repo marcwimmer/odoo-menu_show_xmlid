@@ -1,0 +1,13 @@
+<odoo>
+	<data noupdate='0'>
+		<record id="view_ir_model_access_tree" model="ir.ui.view">
+			<field name="model">ir.model.access</field>
+			<field name="inherit_id" ref="base.ir_access_view_tree_edition"/>
+			<field name="arch" type="xml">
+				<field name="group_id" position="after">
+					<field name="xml_id"/>
+				</field>
+			</field>
+		</record>
+	</data>
+</odoo>
