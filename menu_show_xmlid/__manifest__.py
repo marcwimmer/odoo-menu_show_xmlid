@@ -24,7 +24,7 @@
     "js": [],
     "name": "menu_show_xmlid",
     "test": [],
-    "version": "13.0.1.0",
+    "version": "17.0.0.0",
     "web": True,
     "assets": {"web.assets_qweb": []},
     "demo": [],
